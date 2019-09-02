@@ -1,0 +1,22 @@
+/afs/cats.ucsc.edu/users/w/awhom/cs11/lab2
+
+Access list for public is
+Normal rights:
+  system:operator rlidwk
+  system:authuser rlid
+  system:anyuser rl
+  awhom rlidwka
+
+Access list for private is
+Normal rights:
+  awhom rlidwka
+
+total 8
+-rw-r--r--. 1 awhom users  426 Jan 13 12:19 HelloWorld.class
+drwx------. 2 awhom users 2048 Jan 13 12:11 private
+-rwx------. 1 awhom users  191 Jan 13 12:30 prog
+-rwx------. 1 awhom users  193 Jan 13 12:25 prog~
+drwxr-xr-x. 2 awhom users 2048 Jan 13 12:11 public
+-rw-r--r--. 1 awhom users  229 Jan 13 12:42 result
+
+Hello, lab2!

@@ -1,0 +1,13 @@
+//errors
+//Aaron Hom
+//awhom
+//lab6
+//Lists errors found in LetterHome program
+
+test1.dat - No errors found
+test2.dat - Input 2 4 prints "hot" instead of printing "cold"
+test3.dat - Input 3 3 prints "last weekend" instead of "this weekend"
+test4.dat - Input 4 -0 does not print negative sign
+test5.dat - Input 5 2 and 5 4 prints sentence without a period
+test6.dat - Input 6 1 prints "6 is a valid sentence code" instead of "6 is not a valid input code"  
+test7.dat - Prints "books" instead of "book"
